@@ -1,0 +1,14 @@
+C:\Users\maico\Desktop\JUGADORES\bin\Debug\net8.0\JUGADORES.exe
+C:\Users\maico\Desktop\JUGADORES\bin\Debug\net8.0\JUGADORES.deps.json
+C:\Users\maico\Desktop\JUGADORES\bin\Debug\net8.0\JUGADORES.runtimeconfig.json
+C:\Users\maico\Desktop\JUGADORES\bin\Debug\net8.0\JUGADORES.dll
+C:\Users\maico\Desktop\JUGADORES\bin\Debug\net8.0\JUGADORES.pdb
+C:\Users\maico\Desktop\JUGADORES\obj\Debug\net8.0\JUGADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Desktop\JUGADORES\obj\Debug\net8.0\JUGADORES.AssemblyInfoInputs.cache
+C:\Users\maico\Desktop\JUGADORES\obj\Debug\net8.0\JUGADORES.AssemblyInfo.cs
+C:\Users\maico\Desktop\JUGADORES\obj\Debug\net8.0\JUGADORES.csproj.CoreCompileInputs.cache
+C:\Users\maico\Desktop\JUGADORES\obj\Debug\net8.0\JUGADORES.dll
+C:\Users\maico\Desktop\JUGADORES\obj\Debug\net8.0\refint\JUGADORES.dll
+C:\Users\maico\Desktop\JUGADORES\obj\Debug\net8.0\JUGADORES.pdb
+C:\Users\maico\Desktop\JUGADORES\obj\Debug\net8.0\JUGADORES.genruntimeconfig.cache
+C:\Users\maico\Desktop\JUGADORES\obj\Debug\net8.0\ref\JUGADORES.dll
